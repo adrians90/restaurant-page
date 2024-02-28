@@ -6,7 +6,7 @@ function initHome() {
 
     home.appendChild(createParagraph("Try the best pizza in London!"))
     
-    home.appendChild(createParagraph("Order online on Deliveroo or visit us on site"))
+    home.appendChild(createParagraph("Order online on Deliveroo or visit us on site."))
     return home
 }
 
